@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Gallagher
-- 👀 I’m interested in ... Digital Product Management & Marketing
-- 🌱 I’m currently learning ... CSS, Project Management
-- 💞️ I’m looking to collaborate on ... helping people.
+- 👀 I am a Digital Product Manager
+- 🌱 I’m currently learning ... Power BI, Python, and People Skills
+- 💞️ I’m looking to collaborate on ... nothing as of now! Just tending to my work :)
 - 📫 How to reach me ... https://www.linkedin.com/in/jpatrickgallagher/
 
 <!---
